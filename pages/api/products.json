@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Build a better future",
+    "price": "1",
+    "description": "This wallpaper will motivate you to ship weekly",
+    "image_url": "https://i.imgur.com/PxYUBlR.jpg",
+    "filename": "buildspacebuildabetterfuture.jpeg ",
+    "hash": "QmXk5hzQSYFL8rnwkurEvWDLaAJaup9g2Xm8ruxvhLKvUZ"
+  },
+  {
+    "id": 2,
+    "name": "Build your future",
+    "price": "1",
+    "image_url": "https://i.imgur.com/U13MLpc.jpg",
+    "description": "This wallpaper will motivate you to build your future",
+    "filename": "buildspacebuildyourfuturewallpaper.jpeg",
+    "hash": "QmSUos2EewT1TXwHJNag8hKacZrQyBfE5wJMV1Gyag1EVc"
+  }
+]
